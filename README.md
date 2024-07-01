@@ -34,14 +34,14 @@ This project demonstrates how to fine-tune the BERT model using a custom dataset
 ## Usage
 1. Open the Jupyter Notebook:
     ```bash
-    jupyter notebook bert_spam_ham_classification.ipynb
+    jupyter notebook Fine_Tuning_using_Distil_BERT_model.ipynb
     ```
 2. Follow the steps in the notebook to preprocess the data and train the model.
 3. Fine-tune the model with your dataset by replacing the spam-ham data with other sentiment data.
 4. Use the trained model to make spam-ham predictions.
 
 ## Project Structure
-- `bert_spam_ham_classification.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, and prediction.
+- `Fine_Tuning_using_Distil_BERT_model.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, and prediction.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
